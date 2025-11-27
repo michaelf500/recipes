@@ -4,3 +4,4 @@
 - potato free from garden
 # Instructions
 - fry onions
+- add peas
